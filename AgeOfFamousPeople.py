@@ -11,7 +11,6 @@ def lambda_handler(event, context):
 
     encontre_famoso_por_idade = lambda idade: famosos.get(idade, 'Não há famosos com essa idade.')
 
-    # Exemplo de uso da função lambda:
     idade_digitada = int(event['idade'])
     resultado = encontre_famoso_por_idade(idade_digitada)
 
