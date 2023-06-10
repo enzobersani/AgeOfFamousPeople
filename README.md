@@ -27,7 +27,6 @@ Verifique se as configurações e os gatilhos da função estão corretamente co
 Para testar a função, clique no botão "Teste" na parte superior da página.
 Selecione ou crie um evento de teste.
 Clique em "Testar" para executar a função Lambda.
-Verifique a resposta retornada para garantir que a data e a hora atual estejam corretas.
 ## Testes e Depuração
 Para testar a função Lambda adequadamente, siga as instruções de execução fornecidas acima.
 
